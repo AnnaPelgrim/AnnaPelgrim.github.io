@@ -7,7 +7,7 @@ title: BioHack Academy 5
 
 ## Subtitle
 
-First post on my Github Jekyll page on the first day of the BioHack Academy
+Blog BioHack Academy
 
 **bold**
 
